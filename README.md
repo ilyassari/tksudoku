@@ -1,2 +1,0 @@
-# tksudoku
-Sudoku çözme programı
